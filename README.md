@@ -15,7 +15,7 @@ MIT License
 Adobe After Effects CS6以上
 
 ##バージョン情報
-#2016/11/09 Ver 1.1.0 Update
+###2016/11/09 Ver 1.1.0 Update
 * コンポジションマーカーに対応.
 
-#2016/10/23 Ver 1.0.0 Release
+###2016/10/23 Ver 1.0.0 Release
