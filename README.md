@@ -1,4 +1,4 @@
-﻿#Add Marker with Comment
+#Add Marker with Comment
 (C) あかつきみさき(みくちぃP)
 
 ##このスクリプトについて

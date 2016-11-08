@@ -1,23 +1,3 @@
-/*
-  Add Marker with Comment
-    (C) あかつきみさき(みくちぃP)
-
-  このスクリプトについて
-    選択したレイヤーにプロンプト入力したテキストのコメント付きマーカーを追加するスクリプト.
-
-  使用方法
-    1.ファイル→スクリプト→スクリプトファイルの実行から実行.
-
-  ライセンス
-    MIT License
-
-  動作環境
-    Adobe After Effects CS6以上
-
-  バージョン情報
-    2016/10/23 Ver 1.0.0 Release
-*/
-
 /// <reference path="C:/Users/RUI/OneDrive/lib/aftereffects.d.ts/ae.d.ts"/>
 
 (function () {
