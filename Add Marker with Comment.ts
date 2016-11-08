@@ -8,6 +8,9 @@
   使用方法
     1.ファイル→スクリプト→スクリプトファイルの実行から実行.
 
+  ライセンス
+    MIT License
+
   動作環境
     Adobe After Effects CS6以上
 
