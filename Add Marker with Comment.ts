@@ -3,7 +3,7 @@
 (function () {
   const ADBE_MARKER: string = "ADBE Marker";
 
-  const isCompActive = function (comp: CompItem) {
+  const isCompActive = function (comp: CompItem): boolean {
     if (!(comp && comp instanceof CompItem)) {
       return false;
     } else {
@@ -11,7 +11,7 @@
     }
   }
 
-  const isLayerSelected = function (layers: Layer[]) {
+  const isLayerSelected = function (layers: Layer[]): boolean {
     if (layers.length === 0) {
       return false;
     } else {
@@ -20,7 +20,7 @@
   }
 
 
-  const addMarker = function () {
+  const addMarker = function (): number {
     const actComp: CompItem = <CompItem>app.project.activeItem;
     if (!isCompActive(actComp)) {
       return 0;
